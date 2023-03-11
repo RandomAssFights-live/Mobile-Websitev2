@@ -4,6 +4,10 @@
     font: bold;
 }
 
+#hero-img {
+    border-radius: 5%;
+}
+
 .title {
     font-size: large;
     text-decoration: none;
